@@ -29,4 +29,8 @@ public class LoginDAO {
 			catch(Exception e) {e.printStackTrace();}
 		return ub;
 	}
+
+	static void sum(){
+		System.out.println(5);
+	}
 }
