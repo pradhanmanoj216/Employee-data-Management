@@ -33,4 +33,8 @@ public class LoginDAO {
 	static void sum(){
 		System.out.println(5);
 	}
+
+	stsatic void minus(){
+		System.out.println(12);
+	}
 }
